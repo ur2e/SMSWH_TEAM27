@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "nunsong",
+    "password": "12341234",
+    "database": "hackathon",
+    "host": "smwu-hackathon.czyov59wpw7q.us-east-2.rds.amazonaws.com",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "nunsong",
+    "password": "12341234",
+    "database": "hackathon",
+    "host": "smwu-hackathon.czyov59wpw7q.us-east-2.rds.amazonaws.com",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "nunsong",
+    "password": "12341234",
+    "database": "hackathon",
+    "host": "smwu-hackathon.czyov59wpw7q.us-east-2.rds.amazonaws.com",
+    "dialect": "mysql"
+  }
+}
