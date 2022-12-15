@@ -10,10 +10,10 @@
 ### ❤️ TEAM MEMBER
 | Member | Role | Github |
 | -- | -- | --|
-| 👸 | Fontend | @asd3638 |
-| 🐸 | Fontend | @kimilji |
-| 🦥 | Backend | @ur2e |
-| 🦕 | Backend | @naenha |
+| 👸 | Fontend | [김지혜](https://github.com/asd3638)  |
+| 🐸 | Fontend | [김일지](https://github.com/kimilji) |
+| 🦥 | Backend | [지유리](https://github.com/ur2e) |
+| 🦕 | Backend | [이다온](https://github.com/naenha) |
 
 ## 📌 서비스 개요
 ![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/86b49ab5-c588-4d71-bf3c-41895a903f9d/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20211107%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211107T171004Z&X-Amz-Expires=86400&X-Amz-Signature=2e3f138ef44472547e1981343c962104a10a3b6d9157d5ed8003ef8cbcba0749&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
